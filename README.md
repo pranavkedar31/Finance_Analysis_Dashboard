@@ -8,19 +8,19 @@ An interactive **Power BI Business Intelligence Dashboard** designed to transfor
 
 ## 🏠 Home Page
 
-![Home](screenshots/Home.png)
+![Home](Home.png)
 
 ---
 
 ## 📈 Overview Analysis
 
-![Overview](screenshots/Overview%20Analysis.png)
+![Overview](Overview%20Analysis.png)
 
 ---
 
 ## 📑 Transactions Dashboard
 
-![Transactions](screenshots/Transactions.png)
+![Transactions](Transactions.png)
 
 ---
 
